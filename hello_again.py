@@ -20,5 +20,5 @@ def main():
 
 #now the rest of the program continues
 #if the main() function exists, run it
-if__name__ == "__main__":
+if __name__ == "__main__":
    main()

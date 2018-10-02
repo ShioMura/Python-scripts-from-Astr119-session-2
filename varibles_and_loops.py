@@ -15,5 +15,5 @@ def main():
 	for y_element in y:
 		print(y_element)
 	
-if__name__ == "__main__":
+if __name__ == "__main__":
 	main()
